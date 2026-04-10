@@ -1,1 +1,0 @@
-﻿"""STAR backend application package."""
